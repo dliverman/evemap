@@ -1,0 +1,5 @@
+django
+south
+git+http://github.com/gtaylor/django-eve-db.git
+git+http://github.com/gtaylor/django-eve-api.git
+git+http://github.com/gtaylor/django-eve-proxy.git
